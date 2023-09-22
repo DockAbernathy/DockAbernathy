@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain auditor.
 - 🌱 I’m currently learning auditor
 - 💞️ I’m looking to collaborate on auditor team.
-- 📫 My skype name is 'Dock Abernathy' same my name.
+- 📫 My skype name is 'Dock Abernathy', same as my name.
     
 
 <!---
