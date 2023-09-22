@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DockAbernathy
+- 🌱 I’m a computer software engineer with extensive experienced in machine learning and some web languages.
 - 👀 I’m interested in blockchain auditor.
 - 🌱 I’m currently learning auditor
 - 💞️ I’m looking to collaborate on auditor team.
